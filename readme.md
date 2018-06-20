@@ -1,6 +1,8 @@
 # Zondicons Vue Component
 
-This is a basic Zondicons Vue Component.
+This is a basic [Zondicons](http://www.zondicons.com/) [VueJS](https://vuejs.org/) Component.
+
+This was created in part from the ideas in this Twitter thread: [https://twitter.com/paulredmond/status/939226563207249920](https://twitter.com/paulredmond/status/939226563207249920)
 
 ## Usage
 
